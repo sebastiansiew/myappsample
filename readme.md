@@ -1,2 +1,2 @@
-#MyApp#
-I am an app
+# hello there
+i am learning git :)
