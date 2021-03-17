@@ -1,2 +1,2 @@
 # hello there
-i am learning git :)
+i am NOT learning git :)
